@@ -29,13 +29,13 @@
 #### Total return orders = 5172
 #### Total return orders where CustomerID is null= 1518
 
+![Month on Month Orders](https://github.com/Sreemanto/ML---Customer-Segmentation/blob/main/Monthwise%20Revenue.png)
+
+#### Sales in the 1st half of the year was not so great
+
 ![Month on Month Orders](https://github.com/Sreemanto/ML---Customer-Segmentation/blob/main/Monthwise%20Order%20Summary.png)
 
 #### Highest number of orders are placed in November and th lowest being December (Maybe business was not expecting such a drastic sales and ran out of stock the following month)
-
-![Month on Month Orders](https://github.com/Sreemanto/ML---Customer-Segmentation/blob/main/Monthwise%20Order%20Summary.png)
-
-#### Sales in the 1st half of the year was not so great
 
 
 

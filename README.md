@@ -1,7 +1,18 @@
-# ML---Customer-Segmentation
+# ML--Customer-Segmentation
 
-Objective : To increase marketing efficiency by directing effort specifically toward the designated segment.
-Customer segments would be obtained using Unsupervised ML Models.
+## Objective : To increase marketing efficiency by directing effort specifically toward the designated segment.
+
+## Approach
+### 1 - Data Exploration
+### 2 - Data Analysis
+### 3 - Building Features 
+### 4 - Visualizing the data
+### 5 - Building the RFM Metrics to visualize to categorise the customer
+### 6 - Preprocessing the Data for Machine Learning
+### 7 - Building the Machine Learning Model to obtain the clusters
+### 8 - Profiling the clusters
+
+
 
 
 Do a value counts on country you will see that 90% data is from UK

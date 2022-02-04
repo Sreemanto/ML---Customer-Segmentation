@@ -1,8 +1,7 @@
 # ML--Customer-Segmentation
 
-## Objective : To increase marketing efficiency by directing effort specifically toward the designated segment.
-
-## Approach
+## Objective : To increase marketing efficiency by exploring the Retail Store Data and coming up with insights to build a data driven business strategies
+## Project Summary
 ### 1 - Data Exploration
 ### 2 - Data Analysis
 ### 3 - Building Features 
@@ -12,9 +11,26 @@
 ### 7 - Building the Machine Learning Model to obtain the clusters
 ### 8 - Profiling the clusters
 
+## Business Impact 
+
+### 1. Helping Business Development Team to create product differentiation based on the characteristic for each customer.
+### 2. Know how to treat customer with specific criteria.
+### 3. Recommendation based on customer segmentation.
+
+## Data Exploration
+
+#### 25% of the rows do not have Customer ID
+#### 90% of the data is from United Kingdom
+#### We have total around 1 years of data
 
 
+## Data Analysis
 
+#### Total return orders = 5172
+#### Total return orders where CustomerID is null= 1518
+
+
+![Month on Month Orders](C:\Users\skesh\Downloads\Monthwise Order Summary.png)
 Do a value counts on country you will see that 90% data is from UK
 
 1. Restrict the data where country = United Kingdom.
